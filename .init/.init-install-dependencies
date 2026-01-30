@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-trivia-challenge-207920-207930/trivia_frontend"
+}
